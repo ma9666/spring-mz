@@ -41,7 +41,7 @@ import com.mz.utils.Constant.SuperAdmin;
  * @ClassName：MainController   
  * @Description：   登录控制类
  * @author：Ma Zhen   
- * @date：2016-12-1       
+ * @date：2016-12-1 h
  * @version
  */
 @Controller
